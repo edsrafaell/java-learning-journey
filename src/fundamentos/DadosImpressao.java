@@ -20,5 +20,9 @@ public class DadosImpressao {
         //Concatenação
         System.err.println("Nome: " + name);
         System.err.println("Age: " + age);
+
+        System.out.print("Java");
+        System.out.print(" ");
+        System.out.println("101");
     }
 }

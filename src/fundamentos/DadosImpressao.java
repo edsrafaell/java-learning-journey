@@ -11,6 +11,14 @@ public class DadosImpressao {
         System.err.println("Age: ");
         System.err.println(age);
 
-        
+        // Print + mesma linha
+        System.err.print("Nome: ");
+        System.err.print(name);
+        System.err.print("Age: ");
+        System.err.print(age);
+
+        //Concatenação
+        System.err.println("Nome: " + name);
+        System.err.println("Age: " + age);
     }
 }

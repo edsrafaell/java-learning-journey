@@ -19,6 +19,6 @@ public class OperacoesAritmeticas {
 
         //Ordem de precedência
         System.out.println(((2 + 3) * 4) / 2); // Parênteses, multiplicação e divisão, adição e subtração
-
+        System.out.println(2 + 3 * 4 / 2); // Multiplicação e divisão, adição e subtração
     }
 }
